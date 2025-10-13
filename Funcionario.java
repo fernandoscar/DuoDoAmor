@@ -10,7 +10,7 @@ public class Funcionario {
         this.salario = salario;
         this.matricula = matricula;
     }
-.
+
     // Getters e Setters
     public int getId() {
         return id;
