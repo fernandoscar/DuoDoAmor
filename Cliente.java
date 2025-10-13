@@ -9,7 +9,7 @@ public class Cliente {
         this.telefone = telefone;
         this.email = email;
     }
-.
+
     // Getters e Setters
     public int getId() {
         return id;
