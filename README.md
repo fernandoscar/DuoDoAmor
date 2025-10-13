@@ -38,3 +38,7 @@ O projeto foi desenvolvido com o objetivo de praticar **orientação a objetos**
 ## É necessário instalar a extensão de java para o vs code
 
 # Testes feitos:
+## • Cadastramos 3 funcionários, 3 produtos e 2 clientes.
+## • atualizamos os registros de cada tipo mais de uma vez
+## • excluímos os registros de cada um
+## • no fim listamos tudo e confirmamos as alterações
