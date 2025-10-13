@@ -39,6 +39,6 @@ O projeto foi desenvolvido com o objetivo de praticar **orientação a objetos**
 
 # Testes feitos:
 ## • Cadastramos 3 funcionários, 3 produtos e 2 clientes.
-## • atualizamos os registros de cada tipo mais de uma vez
-## • excluímos os registros de cada um
-## • no fim listamos tudo e confirmamos as alterações
+## • Atualizamos os registros de cada tipo mais de uma vez
+## • Ecluímos os registros de cada um
+## • No fim listamos tudo e confirmamos as alterações
