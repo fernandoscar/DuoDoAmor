@@ -32,3 +32,9 @@ O projeto foi desenvolvido com o objetivo de praticar **orientação a objetos**
 ├── Main.java
 └── README.md
 
+
+
+# Para executar:
+## É necessário instalar a extensão de java para o vs code
+
+# Testes feitos:
