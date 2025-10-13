@@ -5,7 +5,7 @@ public class FuncionarioRepository {
     private ArrayList<Funcionario> funcionarios = new ArrayList<>();
     // Variável para controlar o próximo ID a ser gerado. [cite: 24]
     private int proximoId = 1;
-
+.
     /**
      * Adiciona um novo funcionário à lista, gerando um ID automático. [cite: 26]
      * @param funcionario O funcionário a ser adicionado (sem ID).
