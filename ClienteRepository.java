@@ -9,7 +9,7 @@ public class ClienteRepository {
         clientes.add(cliente);
         return cliente;
     }
-
+.
     public ArrayList<Cliente> listar() {
         return this.clientes;
     }
