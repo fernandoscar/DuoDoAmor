@@ -6,7 +6,7 @@ Um sistema simples em **Java** para gerenciar **Funcionários**, **Produtos** e 
 O projeto foi desenvolvido com o objetivo de praticar **orientação a objetos**, **repositórios** e **CRUD (Create, Read, Update, Delete)** no console.
 
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 - Cadastrar, listar, atualizar e remover funcionários
 - Cadastrar, listar, atualizar e remover produtos
